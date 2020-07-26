@@ -11,7 +11,7 @@ Use for sending one message to multiple emails
 python3 emailspammer2.py
 
 
-Use for sending lots of messages to multiple emails
+Use for sending lots of messages to one email
 
 
 if it says password not accepted go here;
